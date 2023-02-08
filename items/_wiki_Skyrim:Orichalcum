@@ -1,0 +1,14 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Raw Materials.3,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Orichalcum Ingot.png Orichalcum,SR-icon-ingot-Iron Ingot.png Iron,SR-icon-misc-LeatherStrips.png Strips,Other,Weight,Value,Weight,Value,/wiki/Skyrim:Orichalcum
+1,SR-icon-weapon-OrcishDagger.png,Orcish Dagger (0001398e),3,30,6,3,1.3,0.7,1,1,1,,0.9,-25,1.43,0.55,/wiki/Skyrim:Orichalcum
+2,SR-icon-weapon-OrcishSword.png,Orcish Sword (00013991),11,75,9,4,1,1,2,1,1,,7.9,-25,3.55,0.75,/wiki/Skyrim:Orichalcum
+3,SR-icon-weapon-OrcishWarAxe.png,Orcish War Axe (0001398b),13,90,10,5,1†,1,2,1,2,,9.8,-13,4.06,0.87,/wiki/Skyrim:Orichalcum
+4,SR-icon-weapon-OrcishMace.png,Orcish Mace (00013990),15,105,11,5,0.8,1,3,1,1,,10.9,-40,3.66,0.72,/wiki/Skyrim:Orichalcum
+5,SR-icon-weapon-OrcishGreatsword.png,Orcish Greatsword (0001398f),18,75‡,18,9,0.7,1.3,4,2,3,,11.7,-128,2.86,0.37,/wiki/Skyrim:Orichalcum
+6,SR-icon-weapon-OrcishBattleaxe.png,Orcish Battleaxe (0001398c),25,165,19,9,0.7,1.3,4,1,2,,19.8,-28,4.81,0.85,/wiki/Skyrim:Orichalcum
+7,SR-icon-weapon-OrcishWarhammer.png,Orcish Warhammer (00013992),26,180,21,10,0.6,1.3,4,1,3,,20.7,-16,4.91,0.92,/wiki/Skyrim:Orichalcum
+8,SR-icon-weapon-OrcishBow.png,Orcish Bow (0001398d),9,150,10,5,0.81,1,2,1,0,,6,53,3.00,1.55,/wiki/Skyrim:Orichalcum
+9,SR-icon-weapon-OrcishArrows.png,Orcish Arrow (000139bb),0,3,12,,,,1,0,0,1 Firewood Makes 24 arrowsDG,-6,22,0.00,1.44,/wiki/Skyrim:Orichalcum
+10,SR-icon-weapon-Orcish Bolt.png,Orcish BoltCC †† (FExxx841),0,3,12,,,,1,0,0,1 Firewood Makes 10 bolts,(?),(?),(?),(?),/wiki/Skyrim:Orichalcum
+11,SR-icon-weapon-Orcish Crossbow.png,Orcish CrossbowCC (FExxx80D),15,500,22,9,1,1,3,0,0,3 Firewood,(?),(?),(?),(?),/wiki/Skyrim:Orichalcum
+12,SR-icon-weapon-Orcish Crossbow.png,Enhanced Orcish CrossbowCC ¥ (FExxx819),15,700,22,9,1,1,1,0,0,1 Orcish Crossbow,(?),(?),(?),(?),/wiki/Skyrim:Orichalcum

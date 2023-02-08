@@ -1,0 +1,11 @@
+,Name,ID,Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Raw Materials.3,Raw Materials.4,Delta,Delta.1,Ratio,Ratio.1,page
+0,Name,ID,Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Ebony Ingot.png Ebony,SR-icon-ingredient-Daedra Heart.png Daedra Heart,SR-icon-ingot-Quicksilver Ingot.png Quicksilver,SR-icon-misc-LeatherStrips.png Strips,SR-icon-misc-Firewood.png Firewood,Weight,Value,Weight,Value,/wiki/Skyrim:Dark
+1,Dark Seducer Dagger,(xx000821),3,105,9,5,1.3,0.7,1,1,1,1,0,0.4,-358,1.15,0.23,/wiki/Skyrim:Dark
+2,Dark Seducer Sword,(xx000823),11,250,12,7,1,1,1,1,2,1,0,7.4,-273,3.06,0.48,/wiki/Skyrim:Dark
+3,Dark Seducer War Axe,(xx000829),13,320,13,7,0.9,1,1,1,1,2,0,10.3,-146,4.81,0.69,/wiki/Skyrim:Dark
+4,Dark Seducer Mace,(xx000824),15,370,14,8,0.8,1,1,1,2,1,0,11.4,-153,4.17,0.71,/wiki/Skyrim:Dark
+5,Dark Seducer Greatsword,(xx000825),18,510,20,12,0.7,1.3,1,1,4,3,0,12.2,-139,3.10,0.79,/wiki/Skyrim:Dark
+6,Dark Seducer Battleaxe,(xx000839),22,575,21,12,0.7,1.3,1,1,4,2,0,16.3,-71,3.86,0.89,/wiki/Skyrim:Dark
+7,Dark Seducer Warhammer,(xx000828),26,620,23,13,0.6,1.3,1,1,4,3,0,20.2,-29,4.48,0.96,/wiki/Skyrim:Dark
+8,Dark Seducer Bow,(xx000802),10,495,13,9,0.5,1,1,1,2,0,0,6.5,-25,2.86,0.95,/wiki/Skyrim:Dark
+9,Dark Seducer Arrow†,(xx00082A),0.1,6,17,,,,0,1,1,0,1,-4.1,-261,0.37,0.36,/wiki/Skyrim:Dark

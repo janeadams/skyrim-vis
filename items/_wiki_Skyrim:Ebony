@@ -1,0 +1,15 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Ebony Ingot.png Ebony,SR-icon-misc-LeatherStrips.png Strips,Other,Weight,Value,Weight,Value,/wiki/Skyrim:Ebony
+1,SR-icon-weapon-EbonyDagger.png,Ebony Dagger (000139ae),5,290,10,5,1.3†,0.7,1,1,,3.9,137,4.55,1.90,/wiki/Skyrim:Ebony
+2,SR-icon-weapon-EbonySword.png,Ebony Sword (000139b1),15,720,13,6,1,1,2,1,,12.9,417,7.14,2.38,/wiki/Skyrim:Ebony
+3,SR-icon-weapon-Ebony Scimitar.png,Ebony ScimitarCC (xx000E98),14,800,15,6,1,1,2,1,,11.9,497,6.67,2.64,/wiki/Skyrim:Ebony
+4,SR-icon-weapon-EbonyWarAxe.png,Ebony War Axe (000139ab),17,865,15‡,7,0.9,1,2,2,,14.8,559,7.73,2.83,/wiki/Skyrim:Ebony
+5,SR-icon-weapon-EbonyMace.png,Ebony Mace (000139b0),19,1000,16††,8††,0.8,1,3,1,,15.9,547,6.13,2.21,/wiki/Skyrim:Ebony
+6,SR-icon-weapon-Ebony Mace 02.png,Ebony MaceCC (xx000E37),19,1000,17,8,0.8,1,3,1,,15.9,547,6.13,2.21,/wiki/Skyrim:Ebony
+7,SR-icon-weapon-EbonyGreatsword.png,Ebony Greatsword (000139af),22,1440,22,11,0.7,1.3,5,3,,16.7,681,4.15,1.90,/wiki/Skyrim:Ebony
+8,SR-icon-weapon-EbonyBattleaxe.png,Ebony Battleaxe (000139ac),26,1585,23,11,0.7,1.3,5,2,,20.8,829,5.00,2.10,/wiki/Skyrim:Ebony
+9,SR-icon-weapon-EbonyWarhammer.png,Ebony Warhammer (000139b2),30,1725,25,12,0.6,1.3,5,3,,24.7,966,5.66,2.27,/wiki/Skyrim:Ebony
+10,SR-icon-weapon-EbonyBow.png,Ebony Bow (000139ad),16,1440,17,8,0.56,1,3,0,,13,990,5.33,3.20,/wiki/Skyrim:Ebony
+11,SR-icon-weapon-EbonyArrows.png,Ebony Arrow (000139bf),0,7,20,,,,1,0,1 Firewood Makes 24 arrowsDG,-6,13,0.00,1.08,/wiki/Skyrim:Ebony
+12,SR-icon-weapon-Ebony Crossbow.png,Ebony CrossbowCC ‡‡ (FExxx8A6),23,613,25,11,1,1,5,0,,18,-137,(?),(?),/wiki/Skyrim:Ebony
+13,SR-icon-weapon-Ebony Crossbow.png,Enhanced Ebony CrossbowCC ‡‡ ¥ (FExxx8AE),24,871,25,11,1,1,2,0,1 Ebony Crossbow,-1,-142,(?),(?),/wiki/Skyrim:Ebony

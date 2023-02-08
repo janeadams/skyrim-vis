@@ -1,0 +1,14 @@
+,Perk,Rank,Description,ID,Skill Req.,Perk Req.,page
+0,Enchanter,1.0,New enchantments are 20% stronger.,000bee97,,,/wiki/Skyrim:Enchanting
+1,Enchanter,2.0,New enchantments are 40% stronger.,000c367c,20 Enchanting,,/wiki/Skyrim:Enchanting
+2,Enchanter,3.0,New enchantments are 60% stronger.,000c367d,40 Enchanting,,/wiki/Skyrim:Enchanting
+3,Enchanter,4.0,New enchantments are 80% stronger.,000c367e,60 Enchanting,,/wiki/Skyrim:Enchanting
+4,Enchanter,5.0,New enchantments are 100% stronger.,000c367f,80 Enchanting,,/wiki/Skyrim:Enchanting
+5,Fire Enchanter,,Fire enchantments on weapons and armor are 25% stronger.[1],00058f80,30 Enchanting,Enchanter,/wiki/Skyrim:Enchanting
+6,Frost Enchanter,,Frost enchantments on weapons and armor are 25% stronger.[1],00058f81,40 Enchanting,Fire Enchanter,/wiki/Skyrim:Enchanting
+7,Storm Enchanter,,Shock enchantments on weapons and armor are 25% stronger.[1],00058f82,50 Enchanting,Frost Enchanter,/wiki/Skyrim:Enchanting
+8,Insightful Enchanter,,Skill enchantments on armor are 25% stronger.[1],00058f7e,50 Enchanting,Enchanter,/wiki/Skyrim:Enchanting
+9,Corpus Enchanter,,"Health, magicka, and stamina enchantments on armor are 25% stronger.[1][2]",00058f7d,70 Enchanting,Insightful Enchanter,/wiki/Skyrim:Enchanting
+10,Extra Effect,,Can put two enchantments on the same item.[3],00058f7f,100 Enchanting,Corpus Enchanter or Storm Enchanter,/wiki/Skyrim:Enchanting
+11,Soul Squeezer,,Soul gems provide extra magicka for recharging.[4],00058f7c,20 Enchanting,Enchanter,/wiki/Skyrim:Enchanting
+12,Soul Siphon,,"Death blows to creatures, but not people, trap 5% of the victim's soul, recharging the weapon.[5]",00108a44,40 Enchanting,Soul Squeezer,/wiki/Skyrim:Enchanting

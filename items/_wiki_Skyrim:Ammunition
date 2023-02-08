@@ -1,0 +1,10 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Notes,Speed,Gravity,page
+0,SR-icon-weapon-Dwarven Bolt.png,Dwarven BoltDG † (xx00d099),0,3,14,Dropped by Dwarven Automatons if the Dawnguard add-on is installed.,5400,0.35,/wiki/Skyrim:Ammunition
+1,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of FireDG † ‡ (xx00f1b1),0,15,14,Explodes for 15 points of fire damage.,5400,0.35,/wiki/Skyrim:Ammunition
+2,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of IceDG † ‡ (xx00f1b7),0,15,14,Explodes for 15 points of frost damage to Health and Stamina.,5400,0.35,/wiki/Skyrim:Ammunition
+3,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of ShockDG † ‡ (xx00f1b9),0,15,14,Explodes for 15 points of shock damage to Health and half that to Magicka.,5400,0.35,/wiki/Skyrim:Ammunition
+4,SR-icon-weapon-Steel Bolt.png,Exploding Steel Bolt of FireDG † ‡ (xx00f1a0),0,5,10,Explodes for 10 points of fire damage.,5400,0.35,/wiki/Skyrim:Ammunition
+5,SR-icon-weapon-Steel Bolt.png,Exploding Steel Bolt of IceDG † ‡ (xx00f1bb),0,5,10,Explodes for 10 points of frost damage to Health and Stamina.,5400,0.35,/wiki/Skyrim:Ammunition
+6,SR-icon-weapon-Steel Bolt.png,Exploding Steel Bolt of ShockDG † ‡ (xx00f1bc),0,5,10,Explodes for 10 points of shock damage to Health and half that to Magicka.,5400,0.35,/wiki/Skyrim:Ammunition
+7,SR-icon-weapon-Steel Bolt.png,Steel BoltDG † (xx000bb3),0,1,10,"Found on Dawnguard members; can be crafted and/or bought after Sorine teaches you how to make crossbows, if you join the Dawnguard.",5400,0.35,/wiki/Skyrim:Ammunition
+8,SR-icon-weapon-Steel Bolt.png,Test BoltDG (xx00590c),0,1,10,Not available in the game.,5400,0.35,/wiki/Skyrim:Ammunition

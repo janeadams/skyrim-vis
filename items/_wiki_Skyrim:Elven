@@ -1,0 +1,13 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Raw Materials.3,Raw Materials.4,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Refined Moonstone.png Moonstone,SR-icon-ingot-Quicksilver Ingot.png Quicksilver,SR-icon-ingot-Iron Ingot.png Iron,SR-icon-misc-LeatherStrips.png Strips,Other,Weight,Value,Weight,Value,/wiki/Skyrim:Elven
+1,SR-icon-weapon-ElvenDagger.png,Elven Dagger (0001399e),4,95,8,4,1.3,0.7,1,1,1,1,,0.9,-50,1.29,0.66,/wiki/Skyrim:Elven
+2,SR-icon-weapon-ElvenSword.png,Elven Sword (000139a1),13,235,11,5,1,1,1,1,1,1,,9.9,90,4.19,1.62,/wiki/Skyrim:Elven
+3,SR-icon-weapon-ElvenWarAxe.png,Elven War Axe (0001399b),15,280,12,6,0.9,1,1,1,1,2,,11.8,132,4.69,1.89,/wiki/Skyrim:Elven
+4,SR-icon-weapon-ElvenMace.png,Elven Mace (000139a0),17,330,13,6,0.8,1,2,1,1,1,,12.9,110,4.15,1.50,/wiki/Skyrim:Elven
+5,SR-icon-weapon-ElvenGreatsword.png,Elven Greatsword (0001399f),20,470,20,10,0.7,1.3,2,1,2,3,,14.7,237,3.77,2.02,/wiki/Skyrim:Elven
+6,SR-icon-weapon-ElvenBattleaxe.png,Elven Battleaxe (0001399c),24,520,21,10,0.7,1.3,2,1,2,2,,18.8,290,4.62,2.26,/wiki/Skyrim:Elven
+7,SR-icon-weapon-ElvenWarhammer.png,Elven Warhammer (000139a2),28,565,23,11,0.6,1.3,2,1,2,3,,22.7,332,5.28,2.42,/wiki/Skyrim:Elven
+8,SR-icon-weapon-ElvenBow.png,Elven Bow (0001399d),12,470†,13,6,0.69,1,2,1,0,0,,9,260,4.00,2.24,/wiki/Skyrim:Elven
+9,SR-icon-weapon-ElvenArrows.png,Elven Arrow (000139bd),0,5,16,,,,1,,,,1 Firewood Makes 24 arrows,-6,40,0.00,1.50,/wiki/Skyrim:Elven
+10,SR-icon-weapon-Elven Crossbow.png,Elven CrossbowCC ‡ (FExxx801),21,480,23,12,1,1,5,0,0,0,,(?),(?),(?),(?),/wiki/Skyrim:Elven
+11,SR-icon-weapon-Elven Crossbow.png,Enhanced Elven CrossbowCC ‡ ¥ (FExxx809),22,630,23,12,1,1,2,0,0,0,1 Elven Crossbow,(?),(?),(?),(?),/wiki/Skyrim:Elven

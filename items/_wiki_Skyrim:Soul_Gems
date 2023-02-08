@@ -1,0 +1,10 @@
+,Unnamed: 0,Name,Soul,ID,Weight,Value,Capacity,Weapon Recharge,Notes,page
+0,SR-icon-misc-Azura'sStar.png,Azura's Star,none,00063b27,0.0,1000,3000 (Grand),6200 (caps at 3000),"Works the same as a grand soul gem, but does not break on use.",/wiki/Skyrim:Soul_Gems
+1,SR-icon-misc-BlackSoulGem.png,Black Soul Gem,none,0002e500,1.0,300,3000 (Grand),6200 (caps at 3000),Special soul gems that can capture humanoid souls.,/wiki/Skyrim:Soul_Gems
+2,SR-icon-misc-BlackSoulGem.png,Black Soul Gem,Grand,0002e504,1.0,750,3000 (Grand),6200 (caps at 3000),Special soul gems that can capture humanoid souls.,/wiki/Skyrim:Soul_Gems
+3,SR-icon-misc-Flawed Varla Stone.png,Flawed Varla StoneCC,none,FExxx801,0.3,1000,1000 (Common),1250,"Works the same as a common soul gem, but does not break on use. Added with the Rare Curios Creation.",/wiki/Skyrim:Soul_Gems
+4,SR-icon-misc-Soul Tomato.png,Soul TomatoCC,none,xx000804,0.5,250,3000 (Grand),6200 (caps at 3000),"Equivalent to a Grand Soul Gem. Two can be found in Kinthal's camp (east of Karthwasten) on a stone table, and they do respawn.",/wiki/Skyrim:Soul_Gems
+5,SR-icon-misc-Soul Tomato.png,Soul TomatoCC,Grand,xx137F40,0.5,600,3000 (Grand),6200 (caps at 3000),"Equivalent to a Grand Soul Gem. Two can be found in Kinthal's camp (east of Karthwasten) on a stone table, and they do respawn.",/wiki/Skyrim:Soul_Gems
+6,SR-icon-misc-TheBlackStar.png,The Black Star,none,00063b29,0.0,1000,3000 (Grand),6200 (caps at 3000),"Works the same as a black soul gem, but does not break on use.",/wiki/Skyrim:Soul_Gems
+7,SR-icon-misc-LesserSoulGem.png,Treated Soul Gem,none,00094e40,0.2,25,500 (Lesser),750,Unobtainable.,/wiki/Skyrim:Soul_Gems
+8,SR-icon-misc-GrandSoulGem.png,Wylandriah's Soul Gem,none,00043e26,0.0,0,3000 (Grand),6200 (caps at 3000) (see bugs),See the quest Hunt and Gather.,/wiki/Skyrim:Soul_Gems

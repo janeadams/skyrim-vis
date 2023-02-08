@@ -1,0 +1,11 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Draugr Weapon,SR-icon-ingot-Steel Ingot.png Steel,SR-icon-misc-LeatherStrips.png Strips,Weight,Value,Weight,Value,/wiki/Skyrim:Nord_Hero_(material)
+1,SR-icon-weapon-Nord Hero Dagger.png,Nord Hero DaggerCC (xx08A1E4),2,55,8,2,1.3,0.7,Ancient Nord Dagger,1,1,-2.6,27,0.43,1.96,/wiki/Skyrim:Nord_Hero_(material)
+2,SR-icon-weapon-NordHeroSword.png,Nord Hero Sword (00068c7b),9,135,11,4,1,1,Ancient Nord Sword,2,2,-5.2,76,0.63,2.29,/wiki/Skyrim:Nord_Hero_(material)
+3,SR-icon-weapon-NordHeroWarAxe.png,Nord Hero War Axe (00068c63),11,165,12,6,0.9,1,Ancient Nord War Axe,2,2,-5.2,104,0.68,2.70,/wiki/Skyrim:Nord_Hero_(material)
+4,SR-icon-weapon-Nord Hero Mace.png,Nord Hero MaceCC (xx08A1E5),13,195,13,5,0.8,1,Ancient Nord Mace,2,2,-5.2,132,0.71,3.1,/wiki/Skyrim:Nord_Hero_(material)
+5,SR-icon-weapon-NordHeroBow.png,Nord Hero Bow (00068c57),7,200,11,4,0.875,1,Ancient Nord Bow,3,0,-8,95,0.47,1.90,/wiki/Skyrim:Nord_Hero_(material)
+6,SR-icon-weapon-NordHeroGreatsword.png,Nord Hero Greatsword (000a3115),16,250,20,8,0.75,1.3,Ancient Nord Greatsword,3,3,-5.3,146,0.75,2.40,/wiki/Skyrim:Nord_Hero_(material)
+7,SR-icon-weapon-NordHeroBattleAxe.png,Nord Hero Battle Axe (00068c79),20,300,21,8,0.7,1.3,Ancient Nord Battle Axe,3,3,-9.3,203,0.68,3.09,/wiki/Skyrim:Nord_Hero_(material)
+8,SR-icon-weapon-Nord Hero Warhammer.png,Nord Hero WarhammerCC (xx08A1E6),24,350,23,10,0.6,1.3,Ancient Nord Warhammer,3,3,-2.6,239,0.43,3.15,/wiki/Skyrim:Nord_Hero_(material)
+9,SR-icon-weapon-NordHeroArrows.png,Nord Hero Arrow (000eafdf),0,5,24†,,,,,,,,,,,/wiki/Skyrim:Nord_Hero_(material)

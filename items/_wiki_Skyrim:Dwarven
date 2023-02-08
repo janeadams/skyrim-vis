@@ -1,0 +1,18 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Raw Materials.3,Raw Materials.4,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Dwarven Metal Ingot.png Dwarven,SR-icon-ingot-Steel Ingot.png Steel,SR-icon-ingot-Iron Ingot.png Iron,SR-icon-misc-LeatherStrips.png Strips,Other,Weight,Value,Weight,Value,/wiki/Skyrim:Dwarven
+1,SR-icon-weapon-DwarvenDagger.png,Dwarven Dagger (00013996),3.5,55,7,3,1.3,0.7,1,1,1,1,,0.4,-5,1.13,0.92,/wiki/Skyrim:Dwarven
+2,SR-icon-weapon-DwarvenSword.png,Dwarven Sword (00013999),12,135,10,5,1,1,1,1,1,1,,8.9,75,3.87,2.25,/wiki/Skyrim:Dwarven
+3,SR-icon-weapon-DwarvenWarAxe.png,Dwarven War Axe (00013993),14,165,11,6,0.9,1,1,1,1,3,,10.8,102,4.38,2.62,/wiki/Skyrim:Dwarven
+4,SR-icon-weapon-DwarvenMace.png,Dwarven Mace (00013998),16,190,12,6,0.8,1,2,1,1,1,-,11.9,100,3.90,2.11,/wiki/Skyrim:Dwarven
+5,SR-icon-weapon-DwarvenGreatsword.png,Dwarven Greatsword (00013997),19,270,19,9,0.7,1.3,2,2,2,3,,12.7,147,3.02,2.20,/wiki/Skyrim:Dwarven
+6,SR-icon-weapon-DwarvenBattleaxe.png,Dwarven Battleaxe (00013994),23,300,20,10,0.7,1.3,2,2,1,2,,17.8,187,4.42,2.65,/wiki/Skyrim:Dwarven
+7,SR-icon-weapon-DwarvenWarhammer.png,Dwarven Warhammer (0001399a),27,325,22,11,0.6,1.3,2,2,1,3,,21.7,209,5.09,2.80,/wiki/Skyrim:Dwarven
+8,SR-icon-weapon-DwarvenBow.png,Dwarven Bow (00013995),10,270†,12,6,0.75,1,2,,1,,,7,203,3.33,4.03,/wiki/Skyrim:Dwarven
+9,SR-icon-weapon-DwarvenArrows.png,Dwarven Arrow (000139bc),0,4,14,,,,1,,,,1 Firewood Makes 24 arrowsDG,-6,61,0.00,2.74,/wiki/Skyrim:Dwarven
+10,SR-icon-weapon-Dwarven Crossbow.png,Dwarven CrossbowDG ‡ ± (xx00b647),20,350,22,11,1,1,5,,,,,15,200,4.00,2.33,/wiki/Skyrim:Dwarven
+11,SR-icon-weapon-Dwarven Crossbow.png,Enhanced Dwarven CrossbowDG ‡ ¥ ± (xx00f19f),21,550,22,11,1,1,,,,,1 Dwarven Crossbow + 2 Quicksilver,-1,80,0.95,1.17,/wiki/Skyrim:Dwarven
+12,SR-icon-weapon-Dwarven Bolt.png,Dwarven BoltDG ± (xx00d099),0,3,14,,,,1,,,,1 Firewood Makes 10 bolts,-6,-5,0.00,0.86,/wiki/Skyrim:Dwarven
+13,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of FireDG ‡ ± (xx00f1b1),0,15,14,,,,,,,,"10 Dwarven Bolts, 1 Fire Salts Makes 10 bolts",-0.3,70,0.00,1.88,/wiki/Skyrim:Dwarven
+14,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of IceDG ‡ ± (xx00f1b7),0,15,14,,,,,,,,"10 Dwarven Bolts, 1 Frost Salts Makes 10 bolts",-0.3,20,0.00,1.15,/wiki/Skyrim:Dwarven
+15,SR-icon-weapon-Dwarven Bolt.png,Exploding Dwarven Bolt of ShockDG ‡ ± (xx00f1b9),0,15,14,,,,,,,,"10 Dwarven Bolts, 1 Void Salts Makes 10 bolts",-0.3,-5,0.00,0.97,/wiki/Skyrim:Dwarven
+16,SR-icon-weapon-Irkngthand War Axe.png,Irkngthand War AxeCC (xx07aed6),16,265,13,8,0.9,1,1,1,1,3,Unlocked by completing Beneath Bronze Waters,(?),(?),(?),(?),/wiki/Skyrim:Dwarven

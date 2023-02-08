@@ -1,0 +1,13 @@
+,Unnamed: 0,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,Raw Materials,Raw Materials.1,Raw Materials.2,Raw Materials.3,Delta,Delta.1,Ratio,Ratio.1,page
+0,,Name (ID),Weight,Value,Damage,Crit. Critical Damage,Speed,Reach,SR-icon-ingot-Refined Malachite.png Malachite,SR-icon-ingot-Refined Moonstone.png Moonstone,SR-icon-misc-LeatherStrips.png Strips,Other,Weight,Value,Weight,Value,/wiki/Skyrim:Malachite
+1,SR-icon-weapon-Glass Dagger.png,Glass Dagger (000139a6),4.5,165,9,0,1.3,0.7,1,1,1,,2.4,-13,2.14,0.93,/wiki/Skyrim:Malachite
+2,SR-icon-weapon-Glass Sword.png,Glass Sword (000139a9),14,410†,12,6,1,1,1,1,1,,11.9,232,6.67,2.30,/wiki/Skyrim:Malachite
+3,SR-icon-weapon-Glass War Axe.png,Glass War Axe (000139a3),16,490,13,8,0.9,1,1,1,2,,13.8,309,7.27,2.71,/wiki/Skyrim:Malachite
+4,SR-icon-weapon-Glass Mace.png,Glass Mace (000139a8),18,575,14,0,0.8,1,2,1,1,,14.9,297,5.81,2.07,/wiki/Skyrim:Malachite
+5,SR-icon-weapon-Glass Greatsword.png,Glass Greatsword (000139a7),22,820,21,10,0.7,1.3,2,2,3,,17.7,461,5.12,2.28,/wiki/Skyrim:Malachite
+6,SR-icon-weapon-Glass Battleaxe.png,Glass Battleaxe (000139a4),25,900,22,11,0.7,1.3,2,2,2,,20.8,544,5.95,2.53,/wiki/Skyrim:Malachite
+7,SR-icon-weapon-Glass Warhammer.png,Glass Warhammer (000139aa),29,985,24,0,0.6,1.3,3,2,3,,23.7,526,5.47,2.15,/wiki/Skyrim:Malachite
+8,SR-icon-weapon-Glass Bow.png,Glass Bow (000139a5),14,820†,15,7,0.62,1,2,1,0,,11,545,4.67,2.98,/wiki/Skyrim:Malachite
+9,SR-icon-weapon-Glass Arrows.png,Glass Arrow (000139be),0,6,18,,,,1,0,0,1 Firewood Makes 24 arrowsDG,-6,39,0.00,1.37,/wiki/Skyrim:Malachite
+10,SR-icon-weapon-Glass Crossbow.png,Glass CrossbowCC (FExxx80A),16,800,25,9,1,1,2,1,0,3 Firewood,(?),(?),(?),(?),/wiki/Skyrim:Malachite
+11,SR-icon-weapon-Glass Crossbow.png,Enhanced Glass CrossbowCC ¥ (FExxx816),16,1000,25,9,1,1,1,0,0,1 Glass Crossbow,(?),(?),(?),(?),/wiki/Skyrim:Malachite
